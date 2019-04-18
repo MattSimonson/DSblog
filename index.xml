@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Hugo website</title>
+    <link>/</link>
+    <description>Recent content on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Apr 2019 13:16:14 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SNA with the Graphical Lasso</title>
+      <link>/2019/04/16/sna-with-the-graphical-lasso/</link>
+      <pubDate>Tue, 16 Apr 2019 13:16:14 -0500</pubDate>
+      
+      <guid>/2019/04/16/sna-with-the-graphical-lasso/</guid>
+      <description>Imagine you’re a financial advisor that has access to transactional data from the accounts of several thousand individuals, for example, one year of daily transactions from across 100k people who have been investing in the stock market. You have a finite budget for marketing your services and would like to expend the least amount possible on marketing while effectively reaching the greatest number of potential clients. A tool that reveals the social network structure of potential clients is incredibly useful for maximizing the efficiency of a marketing campaign, allowing you to understand the structure of who is influencing who, where the hubs of the network are (influential nodes with many connections), and how information flows between members of the social network.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+    </item>
+    
+  </channel>
+</rss>
